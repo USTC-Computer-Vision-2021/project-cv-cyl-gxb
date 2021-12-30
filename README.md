@@ -112,7 +112,7 @@
 ```
 
 ## 效果展示
-- ![AR Keypoint展示](demo/result10.gif)
+- ![AR Keypoint展示](demo/result2.gif)
 
 ## 工程结构
 
